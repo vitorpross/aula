@@ -1,0 +1,24 @@
+<style>
+	/* Esse e as propriedades da imagem do site cavalos*/
+	
+	.right{
+		text-align: right;
+		border-color: #B7D5E5;
+	}
+	
+	.center {
+		text-align: center;
+		text-decoration: underline;
+	}
+	
+	a:visited {
+		color: #969A92
+	}
+	
+	a:link {
+		color: red;
+	}
+	
+	a:hover {
+		color: yellow;
+	}
